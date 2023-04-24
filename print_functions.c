@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * owned by Tunji and Victor
+ * Owned by Tunji and Victor
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
