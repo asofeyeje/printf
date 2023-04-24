@@ -4,9 +4,9 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
  * _printf - Printf function
- * owned by Tunji and Victor
+ * Owned by Tunji and Victor
  * @format: format.
- * Return: Printed chars.
+ * Return: Printed characters.
  */
 int _printf(const char *format, ...)
 {
