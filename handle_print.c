@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * handle_print - Prints an argument based on its type
- * owned by Tunji and Victor
+ * Owned by Tunji and Victor
  * @fmt: Formatted string in which to print the arguments.
  * @list: List of arguments to be printed.
  * @ind: ind.
