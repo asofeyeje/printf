@@ -2,7 +2,7 @@
 
 /**
  * get_flags - Calculates active flags
- * owned by Tunji and Victor
+ * Owned by Tunji and Victor
  * @format: Formatted string in which to print the arguments
  * @i: take a parameter.
  * Return: Flags:
