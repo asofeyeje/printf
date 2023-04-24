@@ -1,1 +1,3 @@
-printf project with my partner
+Printf Project
+--------------
+Done by Tunji and Victor
