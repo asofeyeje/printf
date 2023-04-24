@@ -3,7 +3,7 @@
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - Prints a string
- * owned by Tunji and Victor
+ * Owned by Tunji and Victor.
  * @c: char types.
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags.
